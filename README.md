@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center"> 🛠 Languages-Frameworks-Tools 🛠/h2>
+<h2 align="center"> 🛠 Languages-Frameworks-Tools 🛠 </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,selenium,mysql,html,css,javascript,vscode,eclipse,github" />
@@ -49,10 +49,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saif7M/Saif7M/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
-
-<hr/>
 
 <hr/>
 
