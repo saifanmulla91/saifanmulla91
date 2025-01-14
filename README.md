@@ -38,16 +38,16 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,mysql,html,css,javascript, vscode,eclipse, github" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,kubernetes,docker,c,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,kubernetes,docker,vim" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>♨️ My Contributions ♨️</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saif07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
