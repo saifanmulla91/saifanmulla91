@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saif07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khajasaifan+Mulla!;" />
 </h1>
 
-<h3 align="center">A passionate Site Reliabitliy Engineer from India....!!!</h3>
+<h3 align="center">A passionate Site Reliabitliy Engineer from India....!!! 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **GCP Cloud**
+ 🔭 I’m currently working on **CI/CD, Monitoring, GCP Cloud**
  
  🌱 I’m currently learning **Docker, CI/CD, Kubernetes**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,nextjs,mysql,html,css,javascript, vscode,eclipse, github,git" />
-    <img src="https://skillicons.dev/icons?i=SRE,Grafana,Nagios,AWS,GCP,Cloud,CI/CD,Terraform,Docker,Kubernetes,DevOPS" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,mysql,html,css,javascript, vscode,eclipse, github" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,kubernetes,docker,c,vim" /><br>
 </div>
 
 <br/>
