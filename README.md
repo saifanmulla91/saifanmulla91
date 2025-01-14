@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, CI/CD, Kubernetes**
 
-💬 Ask me about ** Core Java, MySql, Devops or anything [here](https://github.com/saifanmulla91/saif07/issues)**
+💬 Ask me about ** SRE, Core Java, MySql, Devops or anything [here](https://github.com/saifanmulla91/saif07/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,mysql,html,css,javascript,vscode,eclipse,github" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,kubernetes,docker,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,kubernetes,docker,vim,grafana" /><br>
 </div>
 
 <br/>
